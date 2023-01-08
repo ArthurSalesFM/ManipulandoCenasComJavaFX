@@ -12,11 +12,9 @@ Manipulando Cenas
 * *CSS*
 
 ### Desenvolvido na IDE
-
 * *Eclipse*
 
 #### Conceitos utilizados 
-
 * *POO*
 * *Lambda Expression*
 * *Modularidade*
