@@ -1,0 +1,45 @@
+.conteudo{
+	
+	-fx-background-color: #000; 
+	-fx-font-family: Oswald;
+	
+}
+
+
+.titulo{
+	-fx-text-fill: #0080ff;
+	-fx-font-size: 36px;
+}
+
+.numero{
+	-fx-text-fill: #eee;
+	-fx-font-size: 28px;
+}
+
+.botoes{
+	-fx-background-color: #c0c0c0;
+	-fx-text-fill: #0080ff;
+	-fx-font-size: 28px;
+	-fx-min-width: 60px;
+	-fx-min-height: 60px;
+	-fx-background-radius: 30px;
+}
+
+.verde{
+	-fx-text-fill: #00ff0d;
+}
+
+.vermelho{
+	-fx-text-fill: #ff0000;
+}
+
+.branco{
+	-fx-text-fill: #ffffff;
+}
+
+
+
+
+
+
+
