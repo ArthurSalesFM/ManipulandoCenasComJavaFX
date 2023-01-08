@@ -3,7 +3,7 @@ Continuando os Estudos em JavaFX.
 
 Projeto desenvolvido com a finalidade de por em prática o conceito de Scene no JavaFX
 
-Criando um contador simples
+Manipulando Cenas
 
 **Desenvolvido por** *Arthur Felipe MS*
 
