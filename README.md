@@ -7,8 +7,8 @@ Criando um contador simples
 **Desenvolvido por** *Arthur Felipe MS*
 
 ## Linguagens Utilizadas
-**Java*
-**CSS*
+* *Java*
+* *CSS*
 
 ### Desenvolvido na IDE
 
